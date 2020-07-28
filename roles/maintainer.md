@@ -15,7 +15,8 @@ A maintainer would be responsible for:
 
 Things maintainers would be expected to do:
 
-- Go over the Reveiw Checklist(s) and the Badging application and make sure everything matches up.
+- Assign reviewers or be one in case an application doesn't find reviewers.
+- Make commits with final Badges.
 - Merge / close Pull Request associated with the application.
 
 Things maintainers would't be expected to do:
