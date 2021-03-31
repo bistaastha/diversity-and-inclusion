@@ -18,7 +18,7 @@ The purpose of this repository is to serve as a "starting point" for the Diversi
 
 ## Problem Statement
 
-Diversity in open source is opaque to participants, newcomers, and stakeholders because contributors are distributed, and in many cases are an agglomeration of individuals in different locations. Inclusivity for open source projects is impeded by long standing practices that have side effects that act to reproduce the current state of limited diversity.
+Diversity in open source is opaque to participants, newcomers, and stakeholders because contributors are distributed, and in many cases are individuals from different locations. Inclusivity for open source projects is impeded by long standing practices that have side effects that act to reproduce the current state of limited diversity.
 
 ## Opportunity
 
@@ -33,19 +33,9 @@ Here are the primary deliverables of the Diversity & Inclusion Badging Program:
   * Establish an environment where projects and events can engage in the badging program
   * Aligning the badging program with best practices, guidelines and recommendations from Diversity & Inclusion efforts on the CHAOSS project
   * Connecting with existing badging standards of IMS Global including
-  * Building an open, peer-review system for the D&I Badging Program
+    * Building an open, peer-review system for the D&I Badging Program
 
 ## Applying for Badges
-
-### Project Badging
-
-The Project Badging section of CHAOSS Badging is about measuring inclusivity of different OSS projects through human reviews.
-
-In order to submit an application for a project, go through the following documents:
-- [Applicant role](./roles/applicant.md) - This document describes the GitHub permissions and the responsibilities of a CHAOSS Badging Applicant.
-- [Project submission requirements](https://github.com/badging/project-diversity-and-inclusion/blob/master/submission/requirements.md) - Minimum requirements for a project to be eligible for participation in CHAOSS Badging process.
-
-In order to apply for Project Badging, go to [project-diversity-and-inclusion](https://github.com/badging/project-diversity-and-inclusion).
 
 ### Event Badging
 
@@ -56,8 +46,17 @@ In order to submit an application for a project, go through the following docume
 - [Event submission requirements](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/requirements.md) - Minimum requirements for a Event to be eligible for participation in CHAOSS Badging process.
 
 
-In order to apply for Project Badging, go to [event-diversity-and-inclusion](https://github.com/badging/event-diversity-and-inclusion).
+In order to apply for Event Badging, go to [Diversity and Inclusion Badging page](https://chaoss.community/diversity-and-inclusion-badging/) on CHAOSS website. To look at more details and past applicants, go to [event-diversity-and-inclusion](https://github.com/badging/event-diversity-and-inclusion) repository.
 
+### Project Badging
+
+The Project Badging section of CHAOSS Badging is about measuring inclusivity of different OSS projects through human reviews.
+
+In order to submit an application for a project, go through the following documents:
+- [Applicant role](./roles/applicant.md) - This document describes the GitHub permissions and the responsibilities of a CHAOSS Badging Applicant.
+- [Project submission requirements](https://github.com/badging/project-diversity-and-inclusion/blob/master/submission/requirements.md) - Minimum requirements for a project to be eligible for participation in CHAOSS Badging process.
+
+In order to apply for Project Badging, go to [project-diversity-and-inclusion](https://github.com/badging/project-diversity-and-inclusion).
 
 ## Reviewing Badging submissions
 
